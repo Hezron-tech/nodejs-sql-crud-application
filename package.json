@@ -1,0 +1,30 @@
+{
+  "name": "js-crud-sql-server",
+  "version": "1.0.0",
+  "description": "Node.js Crud example with sql server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "crud",
+    "sql",
+    "server",
+    "mssql",
+    "express",
+    "sequelize",
+    "rest",
+    "api"
+  ],
+  "author": "Hezron",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mssql": "^8.1.2",
+    "sequelize": "^6.21.3",
+    "tedious": "^15.0.0"
+  }
+}
